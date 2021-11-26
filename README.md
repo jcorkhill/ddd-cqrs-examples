@@ -1,6 +1,6 @@
 # DDD and CQRS Examples
 
-This repository demonstrates DDD and CQRS in an opinionated manner across various different languages - C#, F#, TypeScript, and Rust.
+This repository demonstrates DDD and (simple) CQRS in an opinionated manner across various different languages - C#, F#, TypeScript, and Rust.
 
 ## Table of Contents
 
